@@ -22,7 +22,6 @@ Gem::Specification.new do |s|
   s.metadata['rubygems_mfa_required'] = 'true'
 
   s.add_development_dependency 'appraisal', '~> 2.0'
-  s.add_development_dependency 'mongoid-danger', '~> 0.2'
   s.add_development_dependency 'pry'
   s.add_development_dependency 'rails'
   s.add_development_dependency 'rspec'
